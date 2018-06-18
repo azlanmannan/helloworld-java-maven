@@ -41,12 +41,12 @@
 <distributionManagement>
     <repository>
         <id>deployment</id>
-        <name>bd7e4d6b271d-releases</name>
+        <name>InternalReleases1</name>
         <url>http://34.218.59.190:8081/nexus/content/repositories/tui/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
-        <name>bd7e4d6b271d-snapshots</name>
+        <name>Internal Releases</name>
         <url>http://34.218.59.190:8081/nexus/content/repositories/tuisnap/</url>
     </snapshotRepository>
 </distributionManagement>
