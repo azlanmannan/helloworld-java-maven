@@ -41,13 +41,13 @@
 <distributionManagement>
     <repository>
         <id>deployment</id>
-        <name>Internal Releases1</name>
-        <url>http://34.220.10.182:8081/nexus/content/repositories/gyro/</url>
+        <name>bd7e4d6b271d-releases</name>
+        <url>http://34.218.59.190:8081/nexus/content/repositories/tui/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
-        <name>Internal Releases</name>
-        <url>http://34.220.10.182:8081/nexus/content/repositories/gyrosnap/</url>
+        <name>bd7e4d6b271d-snapshots</name>
+        <url>http://34.218.59.190:8081/nexus/content/repositories/tuisnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
